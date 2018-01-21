@@ -1,0 +1,17 @@
+This includes a Makefile along with one class which has main().
+Compile code by running make command, and to execute generated
+binary please follow following instructions.
+
+For Report please find it in the Report folder along with Latex file
+incase if you wants to update the final report.
+
+This folder includes three different classed for three different issues.
+
+Harmonic Numbers.
+$ java HNumbers
+
+Standard Deviation.
+$ java SDeviation
+
+Identity Numbers.
+$ java Identity
